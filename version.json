@@ -1,6 +1,6 @@
 {
-  "version": "1.15",
-  "url": "https://github.com/anthwalgaurav/FastClipper/releases/download/v1.15/FastClipper.zip",
+  "version": "1.17.3",
+  "url": "https://github.com/anthwalgaurav/FastClipper/releases/download/v1.17.3/FastClipper.zip",
   "sha256": "",
-  "notes": "What changed in this version"
+  "notes": "smoother timeline scrolling with other fixes"
 }
